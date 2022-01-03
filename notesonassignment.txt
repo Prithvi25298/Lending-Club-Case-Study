@@ -1,0 +1,27 @@
+default/ not default ---> due date is less then 30
+in loan status charged off defaulter and fullypaid loan defaulter
+
+current i should remove
+
+
+
+steps --->
+	 -- load the data 
+	 -- check the meta deta/sanity check
+	 -- data cleaning (if the percentage of 50% of missing  drop the columns / if single column drop that)
+			input --- continious -- business / mean(whenever there is no outliers) or median(whenever there is outliers) /
+ 			--- categorial(median / create a new data with no data)
+	
+						
+	 -- missing value imputation / outlier treadment
+	 -- EDA
+		-- univariate analysis 
+		-- segmeted univariate analisys(only for target columns)
+		-- bivariate analisys
+		
+	i> univariate 
+		with the help of data with most intutive feature
+			emp_length
+	ii > segmanted univariate analysis
+		split the data with target columns
+	iii > bivariate analysis  
