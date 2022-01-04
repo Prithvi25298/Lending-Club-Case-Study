@@ -1,8 +1,8 @@
 # Lending Club Case Study
 > minimise the risk of losing money while lending to customer
 Two types of risk
-1. Likely to repay loan; not approving will cause loss of business
-2. Not likely to repay loan; approving will cause financial loss
+1. Likely to repay loan not approving will cause loss of business
+2. Not likely to repay loan approving will cause financial loss
 
 
 
@@ -15,10 +15,13 @@ Two types of risk
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- This Project is a about EDA Of the Loan Data. 
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- minimise the risk of losing money while lending to customer
+Two types of risk
+1. Likely to repay loan not approving will cause loss of business
+2. Not likely to repay loan approving will cause financial loss
+- loan dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -44,7 +47,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@scpowar] and [@Prithvi25298] - feel free to contact me!
 
 
 <!-- Optional -->
