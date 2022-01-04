@@ -1,5 +1,9 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> minimise the risk of losing money while lending to customer
+Two types of risk
+1. Likely to repay loan; not approving will cause loss of business
+2. Not likely to repay loan; approving will cause financial loss
+
 
 
 ## Table of Contents
@@ -28,9 +32,7 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
